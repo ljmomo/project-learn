@@ -78,3 +78,13 @@ fabric.properties
 .idea/misc.xml
 .idea/vcs.xml
 project-learn.iml
+.idea/encodings.xml
+.idea/modules.xml
+
+rpc/order-service/order-api/src/test/
+rpc/order-service/order-api/target/
+rpc/order-service/order-provider/src/test/
+rpc/order-service/order-provider/target/
+rpc/user-service/src/test/
+rpc/user-service/target/
+rpc/user-service/user-service.iml
