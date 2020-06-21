@@ -12,11 +12,7 @@
     <artifactId>rpc</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>user-service</module>
         <module>order-service</module>
+        <module>user-service2</module>
     </modules>
-
-   <dependencies>
-
-   </dependencies>
 </project>
